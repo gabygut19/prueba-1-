@@ -2,3 +2,5 @@ hola como esta todos
 hoy usaremos git 
 seguimos e el segundo commit 
 vamos 
+ahora estamos en gitub 
+lo logramos 
